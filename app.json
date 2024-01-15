@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "snake-game",
-    "slug": "snake-game",
+    "slug": "snake-games",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -12,22 +12,34 @@
       "backgroundColor": "#ffffff"
     },
     "updates": {
-      "fallbackToCacheTimeout": 0
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/51363e3b-aebe-4190-8705-f52f099e8da1"
     },
     "assetBundlePatterns": [
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.amadeo82.snakegames"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.amadeo82.snakegames"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "51363e3b-aebe-4190-8705-f52f099e8da1"
+      }
+    },
+    "owner": "amadeo82",
+    "runtimeVersion": {
+      "policy": "appVersion"
     }
   }
 }
