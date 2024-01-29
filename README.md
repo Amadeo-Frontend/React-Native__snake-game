@@ -19,6 +19,14 @@ Este projeto consiste em um jogo da cobrinha (Snake) desenvolvido em React Nativ
 - Food: Representa a comida na tela.
 - Score: Exibe a pontuação atual do jogador.
 
+## Demonstração
+
+<div style="display: inline_block" align="center">https://github.com/Amadeo-Frontend/React-Native__snake-game/assets/104178969/9626864f-691c-45c8-85cb-d9f327d37950</div>
+
+
+
+
+
 ## Estrutura do Código 🧱
 
 O código está estruturado em componentes e utiliza o React Native Gesture Handler para lidar com os gestos do usuário. O estado do jogo é gerenciado por meio do React Hooks, como useState e useEffect.
