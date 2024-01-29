@@ -21,11 +21,7 @@ Este projeto consiste em um jogo da cobrinha (Snake) desenvolvido em React Nativ
 
 ## Demonstração
 
-<div style="display: inline_block" align="center">https://github.com/Amadeo-Frontend/React-Native__snake-game/assets/104178969/9626864f-691c-45c8-85cb-d9f327d37950</div>
-
-
-
-
+https://github.com/Amadeo-Frontend/React-Native__snake-game/assets/104178969/9626864f-691c-45c8-85cb-d9f327d37950
 
 ## Estrutura do Código 🧱
 
